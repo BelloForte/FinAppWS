@@ -85,11 +85,16 @@ public class UserController {
 		logger.info("In method deleteUser. UserId that is deleted : " + userId);
 		User user = userRepository.findById(userId)
 				.orElseThrow(() -> new ResourceNotFoundException("User not found for this id : " + userId));
-
-		userRepository.delete(user);
 		Map<String, Boolean> response = new HashMap<>();
-		response.put("deleted", Boolean.TRUE);
-		return response;
+		if(user.getAccountStatus() >= 0) {
+			userRepository.delete(user);
+			response.put("deleted", Boolean.TRUE);
+			return response;
+		}
+		else {
+			response.put("user have unpayed debt", Boolean.FALSE);
+			return response;
+		}
 	}
 	
 	@PostMapping("/transaction")
