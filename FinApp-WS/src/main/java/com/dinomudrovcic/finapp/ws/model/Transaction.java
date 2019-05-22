@@ -30,38 +30,44 @@ public class Transaction {
 	@Column(name = "date_created", nullable = false)
 	private Date createDate;
 
-	@JoinColumn(name = "id_user")
+	@JoinColumn(name = "userid")
 	@ManyToOne(targetEntity = User.class, fetch = FetchType.LAZY)
 	private User user;
 	
-	@Column(name = "id_user", insertable = false, updatable = false)
+	@Column(name = "userid", insertable = false, updatable = false)
 	private long idUser;
 	
-//	@Enumerated(EnumType.STRING)
 	@Column(name = "operation", nullable = false)
 	private String operation;
 	
 	@Column(name = "amount", nullable = false)
 	private double amount;
 
-	@JoinColumn(name = "id_debtor", nullable = true, insertable = false, updatable = false)
+	@JoinColumn(name = "debtorid")
 	@ManyToOne(targetEntity = User.class, fetch = FetchType.LAZY)
 	private User debtor;
 	
-	@Column(name = "id_debtor")
+	@Column(name = "debtorid", nullable = true, insertable = false, updatable = false)
 	private long idDebtor;
 	
 	public Transaction() {
 		
 	}
 	
+	public Transaction(long idUser, String operation, double amount, long idDebtor) {
+		this.idUser = idUser;
+		this.operation = operation.toString();
+		this.amount = amount;
+		this.idDebtor = idDebtor;
+	}
+
 	public Transaction(User user, String operation, double amount, User debtor) {
 		this.user = user;
 		this.operation = operation.toString();
 		this.amount = amount;
 		this.debtor = debtor;
 	}
-
+	
 	public long getIdTransaction() {
 		return idTransaction;
 	}

@@ -3,6 +3,8 @@ package com.dinomudrovcic.finapp.ws.util;
 import java.util.ArrayList;
 import java.util.List;
 
+import org.apache.log4j.Logger;
+
 import com.dinomudrovcic.finapp.ws.exception.ResourceNotFoundException;
 import com.dinomudrovcic.finapp.ws.model.Transaction;
 import com.dinomudrovcic.finapp.ws.model.User;
@@ -10,7 +12,10 @@ import com.dinomudrovcic.finapp.ws.repository.UserRepository;
 
 public class TransactionHelper {
 	
+	private static Logger logger = Logger.getLogger(TransactionHelper.class);
+	
 	public List<User> handleTransaction(List<User> users, Transaction transactionData) {
+		logger.info("In handling transaction method. Transaction operation is : " + transactionData.getOperation());
 		List<User> updatedUsers = new ArrayList<>();
 		
 		String operation = transactionData.getOperation();
@@ -31,7 +36,7 @@ public class TransactionHelper {
 	}
 
 	private List<User> incomeLogic(List<User> users, Transaction transactionData) {
-		
+		logger.info("In incomeLogic() method.");
 		List<User> updatedUsers = new ArrayList<>();
 		int numberOfUsers = users.size();
 		double amountToChange = transactionData.getAmount() / numberOfUsers;
@@ -45,11 +50,12 @@ public class TransactionHelper {
 	}
 
 	private List<User> expenseLogic(List<User> users, Transaction transactionData) {
+		logger.info("In expenseLogic() method.");
 		List<User> updatedUsers = new ArrayList<>();
 		int numberOfUsers = users.size();
 		double amountToChange = transactionData.getAmount() / numberOfUsers;
 		for(User user : users) {
-			if(user.equals(transactionData.getUser())) {
+			if(user.getIdUser() == transactionData.getIdUser()) {
 				double currentAccountStatus = user.getAccountStatus();
 				double newAccountStatus = currentAccountStatus + amountToChange;
 				user.setAccountStatus(newAccountStatus);
@@ -66,6 +72,7 @@ public class TransactionHelper {
 	}
 
 	private List<User> exchangeLogic(List<User> users, Transaction transactionData) {
+		logger.info("In exchangeLogic() method.");
 		List<User> updatedUsers = new ArrayList<>();
 		User user = transactionData.getUser();
 		User debtor = transactionData.getDebtor();
@@ -95,13 +102,10 @@ public class TransactionHelper {
 		
 	}
 
-	public User fillUser(User user, UserRepository userRepository) throws ResourceNotFoundException {
-		long id = user.getIdUser();
+	public User fillUser(long id, UserRepository userRepository) throws ResourceNotFoundException {
+		logger.info("In fillUser() method.");
 		User tmpUser = userRepository.findById(id)
 				.orElseThrow(() -> new ResourceNotFoundException("User not found for this id : " + id));
-		user.setName(tmpUser.getName());
-		user.setSurname(tmpUser.getSurname());
-		user.setAccountStatus(tmpUser.getAccountStatus());
-		return user;
+		return tmpUser;
 	}
 }

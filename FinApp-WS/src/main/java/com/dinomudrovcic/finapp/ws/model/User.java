@@ -27,8 +27,8 @@ public class User {
 		
 	}
 	
-	public User(long id) {
-		this.idUser = id;
+	public User(long idUser) {
+		this.idUser = idUser;
 	}
 	
 	public User(String name, String surname, Double accStatus) {

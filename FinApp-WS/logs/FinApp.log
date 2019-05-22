@@ -1,0 +1,473 @@
+2019-05-22 16:26:26 main INFO  TransactionHelper:18 - In handling transaction method. Transaction operation is : INCOME
+2019-05-22 16:26:26 main INFO  TransactionHelper:39 - In incomeLogic() method.
+2019-05-22 16:26:26 main INFO  TransactionHelper:18 - In handling transaction method. Transaction operation is : EXPENSE
+2019-05-22 16:26:26 main INFO  TransactionHelper:53 - In expenseLogic() method.
+2019-05-22 16:26:55 main INFO  TransactionHelper:18 - In handling transaction method. Transaction operation is : INCOME
+2019-05-22 16:26:55 main INFO  TransactionHelper:39 - In incomeLogic() method.
+2019-05-22 16:26:55 main INFO  TransactionHelper:18 - In handling transaction method. Transaction operation is : EXPENSE
+2019-05-22 16:26:55 main INFO  TransactionHelper:53 - In expenseLogic() method.
+2019-05-22 16:27:54 main INFO  TransactionHelper:18 - In handling transaction method. Transaction operation is : INCOME
+2019-05-22 16:27:54 main INFO  TransactionHelper:39 - In incomeLogic() method.
+2019-05-22 16:28:16 main INFO  TransactionHelper:18 - In handling transaction method. Transaction operation is : INCOME
+2019-05-22 16:28:16 main INFO  TransactionHelper:39 - In incomeLogic() method.
+2019-05-22 16:30:09 main INFO  TransactionHelper:18 - In handling transaction method. Transaction operation is : INCOME
+2019-05-22 16:30:09 main INFO  TransactionHelper:39 - In incomeLogic() method.
+2019-05-22 16:30:09 main INFO  TransactionHelper:18 - In handling transaction method. Transaction operation is : EXPENSE
+2019-05-22 16:30:09 main INFO  TransactionHelper:53 - In expenseLogic() method.
+2019-05-22 16:34:04 main INFO  TransactionHelper:18 - In handling transaction method. Transaction operation is : INCOME
+2019-05-22 16:34:04 main INFO  TransactionHelper:39 - In incomeLogic() method.
+2019-05-22 16:35:02 main INFO  TransactionHelper:18 - In handling transaction method. Transaction operation is : INCOME
+2019-05-22 16:35:02 main INFO  TransactionHelper:39 - In incomeLogic() method.
+2019-05-22 16:35:40 main INFO  TransactionHelper:18 - In handling transaction method. Transaction operation is : INCOME
+2019-05-22 16:35:40 main INFO  TransactionHelper:39 - In incomeLogic() method.
+2019-05-22 16:38:43 main INFO  TransactionHelper:18 - In handling transaction method. Transaction operation is : INCOME
+2019-05-22 16:38:43 main INFO  TransactionHelper:39 - In incomeLogic() method.
+2019-05-22 16:39:23 main INFO  TransactionHelper:18 - In handling transaction method. Transaction operation is : INCOME
+2019-05-22 16:39:23 main INFO  TransactionHelper:39 - In incomeLogic() method.
+2019-05-22 16:39:41 main INFO  TransactionHelper:18 - In handling transaction method. Transaction operation is : INCOME
+2019-05-22 16:39:41 main INFO  TransactionHelper:39 - In incomeLogic() method.
+2019-05-22 16:40:12 main INFO  TransactionHelper:18 - In handling transaction method. Transaction operation is : INCOME
+2019-05-22 16:40:12 main INFO  TransactionHelper:39 - In incomeLogic() method.
+2019-05-22 16:41:24 main INFO  TransactionHelper:18 - In handling transaction method. Transaction operation is : INCOME
+2019-05-22 16:41:24 main INFO  TransactionHelper:39 - In incomeLogic() method.
+2019-05-22 16:44:10 main INFO  TransactionHelper:18 - In handling transaction method. Transaction operation is : INCOME
+2019-05-22 16:44:10 main INFO  TransactionHelper:40 - In incomeLogic() method.
+2019-05-22 16:49:06 main INFO  TransactionHelper:18 - In handling transaction method. Transaction operation is : INCOME
+2019-05-22 16:49:06 main INFO  TransactionHelper:39 - In incomeLogic() method.
+2019-05-22 16:53:31 main INFO  TransactionHelper:18 - In handling transaction method. Transaction operation is : INCOME
+2019-05-22 16:53:31 main INFO  TransactionHelper:39 - In incomeLogic() method.
+2019-05-22 16:53:31 main INFO  TransactionHelper:18 - In handling transaction method. Transaction operation is : EXPENSE
+2019-05-22 16:53:31 main INFO  TransactionHelper:53 - In expenseLogic() method.
+2019-05-22 16:55:27 main INFO  TransactionHelper:18 - In handling transaction method. Transaction operation is : INCOME
+2019-05-22 16:55:27 main INFO  TransactionHelper:42 - In incomeLogic() method.
+2019-05-22 16:56:04 main INFO  TransactionHelper:18 - In handling transaction method. Transaction operation is : INCOME
+2019-05-22 16:56:04 main INFO  TransactionHelper:42 - In incomeLogic() method.
+2019-05-22 16:56:54 main INFO  TransactionHelper:18 - In handling transaction method. Transaction operation is : INCOME
+2019-05-22 16:57:12 main INFO  TransactionHelper:42 - In incomeLogic() method.
+2019-05-22 16:58:51 main INFO  TransactionHelper:18 - In handling transaction method. Transaction operation is : INCOME
+2019-05-22 16:58:51 main INFO  TransactionHelper:42 - In incomeLogic() method.
+2019-05-22 16:59:12 main INFO  TransactionHelper:18 - In handling transaction method. Transaction operation is : INCOME
+2019-05-22 16:59:12 main INFO  TransactionHelper:42 - In incomeLogic() method.
+2019-05-22 16:59:45 main INFO  TransactionHelper:18 - In handling transaction method. Transaction operation is : INCOME
+2019-05-22 16:59:45 main INFO  TransactionHelper:42 - In incomeLogic() method.
+2019-05-22 17:00:19 main INFO  TransactionHelper:18 - In handling transaction method. Transaction operation is : INCOME
+2019-05-22 17:00:19 main INFO  TransactionHelper:42 - In incomeLogic() method.
+2019-05-22 17:00:40 main INFO  TransactionHelper:18 - In handling transaction method. Transaction operation is : EXPENSE
+2019-05-22 17:00:40 main INFO  TransactionHelper:56 - In expenseLogic() method.
+2019-05-22 17:00:59 main INFO  TransactionHelper:18 - In handling transaction method. Transaction operation is : INCOME
+2019-05-22 17:00:59 main INFO  TransactionHelper:42 - In incomeLogic() method.
+2019-05-22 17:00:59 main INFO  TransactionHelper:18 - In handling transaction method. Transaction operation is : EXPENSE
+2019-05-22 17:00:59 main INFO  TransactionHelper:56 - In expenseLogic() method.
+2019-05-22 17:01:22 main INFO  TransactionHelper:18 - In handling transaction method. Transaction operation is : INCOME
+2019-05-22 17:01:22 main INFO  TransactionHelper:42 - In incomeLogic() method.
+2019-05-22 17:01:39 main INFO  TransactionHelper:18 - In handling transaction method. Transaction operation is : EXPENSE
+2019-05-22 17:01:39 main INFO  TransactionHelper:56 - In expenseLogic() method.
+2019-05-22 17:02:44 main INFO  TransactionHelper:18 - In handling transaction method. Transaction operation is : EXPENSE
+2019-05-22 17:02:44 main INFO  TransactionHelper:56 - In expenseLogic() method.
+2019-05-22 17:03:17 main INFO  TransactionHelper:18 - In handling transaction method. Transaction operation is : EXPENSE
+2019-05-22 17:03:24 main INFO  TransactionHelper:56 - In expenseLogic() method.
+2019-05-22 17:04:01 main INFO  TransactionHelper:18 - In handling transaction method. Transaction operation is : EXPENSE
+2019-05-22 17:04:06 main INFO  TransactionHelper:56 - In expenseLogic() method.
+2019-05-22 17:05:56 main INFO  TransactionHelper:18 - In handling transaction method. Transaction operation is : EXPENSE
+2019-05-22 17:05:56 main INFO  TransactionHelper:52 - In expenseLogic() method.
+2019-05-22 17:06:22 main INFO  TransactionHelper:18 - In handling transaction method. Transaction operation is : INCOME
+2019-05-22 17:06:22 main INFO  TransactionHelper:38 - In incomeLogic() method.
+2019-05-22 17:06:22 main INFO  TransactionHelper:18 - In handling transaction method. Transaction operation is : EXPENSE
+2019-05-22 17:06:22 main INFO  TransactionHelper:52 - In expenseLogic() method.
+2019-05-22 17:09:47 main INFO  TransactionHelper:18 - In handling transaction method. Transaction operation is : INCOME
+2019-05-22 17:09:47 main INFO  TransactionHelper:38 - In incomeLogic() method.
+2019-05-22 17:09:47 main INFO  TransactionHelper:18 - In handling transaction method. Transaction operation is : EXPENSE
+2019-05-22 17:09:47 main INFO  TransactionHelper:52 - In expenseLogic() method.
+2019-05-22 17:10:06 main INFO  TransactionHelper:18 - In handling transaction method. Transaction operation is : INCOME
+2019-05-22 17:10:06 main INFO  TransactionHelper:38 - In incomeLogic() method.
+2019-05-22 17:10:06 main INFO  TransactionHelper:18 - In handling transaction method. Transaction operation is : EXPENSE
+2019-05-22 17:10:06 main INFO  TransactionHelper:52 - In expenseLogic() method.
+2019-05-22 17:10:17 main INFO  TransactionHelper:18 - In handling transaction method. Transaction operation is : INCOME
+2019-05-22 17:10:17 main INFO  TransactionHelper:38 - In incomeLogic() method.
+2019-05-22 17:10:17 main INFO  TransactionHelper:18 - In handling transaction method. Transaction operation is : EXPENSE
+2019-05-22 17:10:17 main INFO  TransactionHelper:52 - In expenseLogic() method.
+2019-05-22 17:10:17 main INFO  TransactionHelper:18 - In handling transaction method. Transaction operation is : EXCHANGE
+2019-05-22 17:10:17 main INFO  TransactionHelper:74 - In exchangeLogic() method.
+2019-05-22 17:10:43 main INFO  TransactionHelper:18 - In handling transaction method. Transaction operation is : EXCHANGE
+2019-05-22 17:10:43 main INFO  TransactionHelper:74 - In exchangeLogic() method.
+2019-05-22 17:12:49 main INFO  TransactionHelper:18 - In handling transaction method. Transaction operation is : EXCHANGE
+2019-05-22 17:12:53 main INFO  TransactionHelper:74 - In exchangeLogic() method.
+2019-05-22 17:14:14 main INFO  TransactionHelper:18 - In handling transaction method. Transaction operation is : EXCHANGE
+2019-05-22 17:14:14 main INFO  TransactionHelper:73 - In exchangeLogic() method.
+2019-05-22 17:15:04 main INFO  TransactionHelper:18 - In handling transaction method. Transaction operation is : EXCHANGE
+2019-05-22 17:15:13 main INFO  TransactionHelper:73 - In exchangeLogic() method.
+2019-05-22 17:16:57 main INFO  TransactionHelper:18 - In handling transaction method. Transaction operation is : EXCHANGE
+2019-05-22 17:16:57 main INFO  TransactionHelper:75 - In exchangeLogic() method.
+2019-05-22 17:17:30 main INFO  TransactionHelper:18 - In handling transaction method. Transaction operation is : EXPENSE
+2019-05-22 17:17:30 main INFO  TransactionHelper:53 - In expenseLogic() method.
+2019-05-22 17:18:48 main INFO  TransactionHelper:18 - In handling transaction method. Transaction operation is : EXCHANGE
+2019-05-22 17:18:49 main INFO  TransactionHelper:75 - In exchangeLogic() method.
+2019-05-22 17:19:57 main INFO  TransactionHelper:18 - In handling transaction method. Transaction operation is : INCOME
+2019-05-22 17:19:57 main INFO  TransactionHelper:39 - In incomeLogic() method.
+2019-05-22 17:19:57 main INFO  TransactionHelper:18 - In handling transaction method. Transaction operation is : EXCHANGE
+2019-05-22 17:19:57 main INFO  TransactionHelper:75 - In exchangeLogic() method.
+2019-05-22 17:19:57 main INFO  TransactionHelper:18 - In handling transaction method. Transaction operation is : EXPENSE
+2019-05-22 17:19:57 main INFO  TransactionHelper:53 - In expenseLogic() method.
+2019-05-22 17:23:15 main INFO  TransactionHelper:18 - In handling transaction method. Transaction operation is : INCOME
+2019-05-22 17:23:15 main INFO  TransactionHelper:39 - In incomeLogic() method.
+2019-05-22 17:23:21 main INFO  TransactionHelper:18 - In handling transaction method. Transaction operation is : EXCHANGE
+2019-05-22 17:23:21 main INFO  TransactionHelper:75 - In exchangeLogic() method.
+2019-05-22 17:23:52 main INFO  TransactionHelper:18 - In handling transaction method. Transaction operation is : EXCHANGE
+2019-05-22 17:23:58 main INFO  TransactionHelper:75 - In exchangeLogic() method.
+2019-05-22 17:25:35 main INFO  TransactionHelper:18 - In handling transaction method. Transaction operation is : EXCHANGE
+2019-05-22 17:25:35 main INFO  TransactionHelper:75 - In exchangeLogic() method.
+2019-05-22 17:25:43 main INFO  TransactionHelper:18 - In handling transaction method. Transaction operation is : INCOME
+2019-05-22 17:25:43 main INFO  TransactionHelper:39 - In incomeLogic() method.
+2019-05-22 17:25:43 main INFO  TransactionHelper:18 - In handling transaction method. Transaction operation is : EXCHANGE
+2019-05-22 17:25:43 main INFO  TransactionHelper:75 - In exchangeLogic() method.
+2019-05-22 17:25:43 main INFO  TransactionHelper:18 - In handling transaction method. Transaction operation is : EXPENSE
+2019-05-22 17:25:43 main INFO  TransactionHelper:53 - In expenseLogic() method.
+2019-05-22 17:25:55 main INFO  TransactionHelper:18 - In handling transaction method. Transaction operation is : INCOME
+2019-05-22 17:25:55 main INFO  TransactionHelper:39 - In incomeLogic() method.
+2019-05-22 17:25:55 main INFO  TransactionHelper:18 - In handling transaction method. Transaction operation is : EXCHANGE
+2019-05-22 17:25:55 main INFO  TransactionHelper:75 - In exchangeLogic() method.
+2019-05-22 17:25:55 main INFO  TransactionHelper:18 - In handling transaction method. Transaction operation is : EXPENSE
+2019-05-22 17:25:55 main INFO  TransactionHelper:53 - In expenseLogic() method.
+2019-05-22 17:27:03 http-nio-9999-exec-2 INFO  UserController:50 - In method getAllUsers..
+2019-05-22 17:27:13 http-nio-9999-exec-3 INFO  UserController:97 - Transaction data = date created : null, userId : 0, operation : EXCHANGE, amount : 50.0 and debtorId : 0
+2019-05-22 17:27:13 http-nio-9999-exec-3 INFO  TransactionHelper:106 - In fillUser() method.
+2019-05-22 17:27:13 http-nio-9999-exec-3 INFO  TransactionHelper:106 - In fillUser() method.
+2019-05-22 17:27:13 http-nio-9999-exec-3 INFO  TransactionHelper:18 - In handling transaction method. Transaction operation is : EXCHANGE
+2019-05-22 17:27:13 http-nio-9999-exec-3 INFO  TransactionHelper:75 - In exchangeLogic() method.
+2019-05-22 17:27:48 http-nio-9999-exec-4 INFO  UserController:97 - Transaction data = date created : null, userId : 0, operation : INCOME, amount : 150.0 and debtorId : 0
+2019-05-22 17:27:48 http-nio-9999-exec-4 INFO  TransactionHelper:106 - In fillUser() method.
+2019-05-22 17:28:00 http-nio-9999-exec-5 INFO  UserController:97 - Transaction data = date created : null, userId : 0, operation : INCOME, amount : 150.0 and debtorId : 0
+2019-05-22 17:28:00 http-nio-9999-exec-5 INFO  TransactionHelper:106 - In fillUser() method.
+2019-05-22 17:28:11 http-nio-9999-exec-6 INFO  UserController:97 - Transaction data = date created : null, userId : 0, operation : INCOME, amount : 150.0 and debtorId : 0
+2019-05-22 17:28:11 http-nio-9999-exec-6 INFO  TransactionHelper:106 - In fillUser() method.
+2019-05-22 17:28:11 http-nio-9999-exec-6 INFO  TransactionHelper:18 - In handling transaction method. Transaction operation is : INCOME
+2019-05-22 17:28:11 http-nio-9999-exec-6 INFO  TransactionHelper:39 - In incomeLogic() method.
+2019-05-22 17:28:42 http-nio-9999-exec-9 INFO  UserController:50 - In method getAllUsers..
+2019-05-22 17:28:48 http-nio-9999-exec-8 INFO  UserController:97 - Transaction data = date created : null, userId : 0, operation : INCOME, amount : 150.0 and debtorId : 0
+2019-05-22 17:28:48 http-nio-9999-exec-8 INFO  TransactionHelper:106 - In fillUser() method.
+2019-05-22 17:28:48 http-nio-9999-exec-8 INFO  TransactionHelper:18 - In handling transaction method. Transaction operation is : INCOME
+2019-05-22 17:28:48 http-nio-9999-exec-8 INFO  TransactionHelper:39 - In incomeLogic() method.
+2019-05-22 17:29:01 http-nio-9999-exec-1 INFO  UserController:97 - Transaction data = date created : null, userId : 0, operation : EXPENSE, amount : 150.0 and debtorId : 0
+2019-05-22 17:29:01 http-nio-9999-exec-1 INFO  TransactionHelper:106 - In fillUser() method.
+2019-05-22 17:29:01 http-nio-9999-exec-1 INFO  TransactionHelper:18 - In handling transaction method. Transaction operation is : EXPENSE
+2019-05-22 17:29:01 http-nio-9999-exec-1 INFO  TransactionHelper:53 - In expenseLogic() method.
+2019-05-22 17:29:43 http-nio-9999-exec-3 INFO  UserController:97 - Transaction data = date created : null, userId : 0, operation : EXPENSE, amount : 150.0 and debtorId : 0
+2019-05-22 17:29:43 http-nio-9999-exec-3 INFO  TransactionHelper:106 - In fillUser() method.
+2019-05-22 17:29:43 http-nio-9999-exec-3 INFO  TransactionHelper:18 - In handling transaction method. Transaction operation is : EXPENSE
+2019-05-22 17:29:43 http-nio-9999-exec-3 INFO  TransactionHelper:53 - In expenseLogic() method.
+2019-05-22 17:30:12 http-nio-9999-exec-5 INFO  UserController:97 - Transaction data = date created : null, userId : 0, operation : EXPENSE, amount : 50.0 and debtorId : 0
+2019-05-22 17:30:12 http-nio-9999-exec-5 INFO  TransactionHelper:106 - In fillUser() method.
+2019-05-22 17:30:12 http-nio-9999-exec-5 INFO  TransactionHelper:18 - In handling transaction method. Transaction operation is : EXPENSE
+2019-05-22 17:30:12 http-nio-9999-exec-5 INFO  TransactionHelper:53 - In expenseLogic() method.
+2019-05-22 17:30:24 http-nio-9999-exec-7 INFO  UserController:97 - Transaction data = date created : null, userId : 0, operation : EXPENSE, amount : 50.0 and debtorId : 0
+2019-05-22 17:30:24 http-nio-9999-exec-7 INFO  TransactionHelper:106 - In fillUser() method.
+2019-05-22 17:30:24 http-nio-9999-exec-7 INFO  TransactionHelper:18 - In handling transaction method. Transaction operation is : EXPENSE
+2019-05-22 17:30:24 http-nio-9999-exec-7 INFO  TransactionHelper:53 - In expenseLogic() method.
+2019-05-22 17:30:29 http-nio-9999-exec-8 INFO  UserController:97 - Transaction data = date created : null, userId : 0, operation : EXPENSE, amount : 50.0 and debtorId : 0
+2019-05-22 17:30:29 http-nio-9999-exec-8 INFO  TransactionHelper:106 - In fillUser() method.
+2019-05-22 17:30:29 http-nio-9999-exec-8 INFO  TransactionHelper:106 - In fillUser() method.
+2019-05-22 17:31:08 http-nio-9999-exec-10 INFO  UserController:50 - In method getAllUsers..
+2019-05-22 17:32:35 http-nio-9999-exec-2 INFO  UserController:97 - Transaction data = date created : null, userId : 0, operation : EXPENSE, amount : 50.0 and debtorId : 0
+2019-05-22 17:34:09 http-nio-9999-exec-2 INFO  TransactionHelper:106 - In fillUser() method.
+2019-05-22 17:34:23 http-nio-9999-exec-2 INFO  TransactionHelper:106 - In fillUser() method.
+2019-05-22 17:36:08 http-nio-9999-exec-1 INFO  UserController:97 - Transaction data = date created : null, userId : 0, operation : EXPENSE, amount : 50.0 and debtorId : 0
+2019-05-22 17:36:36 http-nio-9999-exec-1 INFO  TransactionHelper:106 - In fillUser() method.
+2019-05-22 17:36:51 http-nio-9999-exec-1 INFO  TransactionHelper:106 - In fillUser() method.
+2019-05-22 17:38:28 http-nio-9999-exec-2 INFO  UserController:97 - Transaction data = date created : null, userId : 0, operation : EXPENSE, amount : 50.0 and debtorId : 0
+2019-05-22 17:38:28 http-nio-9999-exec-2 INFO  TransactionHelper:106 - In fillUser() method.
+2019-05-22 17:38:33 http-nio-9999-exec-3 INFO  UserController:50 - In method getAllUsers..
+2019-05-22 17:38:41 http-nio-9999-exec-4 INFO  UserController:97 - Transaction data = date created : null, userId : 0, operation : EXPENSE, amount : 50.0 and debtorId : 0
+2019-05-22 17:38:41 http-nio-9999-exec-4 INFO  TransactionHelper:106 - In fillUser() method.
+2019-05-22 17:38:47 http-nio-9999-exec-5 INFO  UserController:97 - Transaction data = date created : null, userId : 0, operation : EXPENSE, amount : 50.0 and debtorId : 0
+2019-05-22 17:38:47 http-nio-9999-exec-5 INFO  TransactionHelper:106 - In fillUser() method.
+2019-05-22 17:39:59 http-nio-9999-exec-2 INFO  UserController:97 - Transaction data = date created : null, userId : 0, operation : EXPENSE, amount : 50.0 and debtorId : 0
+2019-05-22 17:40:22 http-nio-9999-exec-2 INFO  TransactionHelper:106 - In fillUser() method.
+2019-05-22 17:41:51 http-nio-9999-exec-2 INFO  UserController:97 - Transaction data = date created : null, userId : 0, operation : EXPENSE, amount : 50.0 and debtorId : 0
+2019-05-22 17:42:17 http-nio-9999-exec-2 INFO  TransactionHelper:106 - In fillUser() method.
+2019-05-22 17:43:45 http-nio-9999-exec-1 INFO  UserController:97 - Transaction data = date created : null, userId : 0, operation : EXPENSE, amount : 50.0 and debtorId : 0
+2019-05-22 17:43:45 http-nio-9999-exec-1 INFO  TransactionHelper:106 - In fillUser() method.
+2019-05-22 17:43:45 http-nio-9999-exec-1 INFO  TransactionHelper:18 - In handling transaction method. Transaction operation is : EXPENSE
+2019-05-22 17:43:45 http-nio-9999-exec-1 INFO  TransactionHelper:53 - In expenseLogic() method.
+2019-05-22 17:44:07 http-nio-9999-exec-2 INFO  UserController:97 - Transaction data = date created : null, userId : 0, operation : EXPENSE, amount : 50.0 and debtorId : 0
+2019-05-22 17:44:33 http-nio-9999-exec-2 INFO  TransactionHelper:106 - In fillUser() method.
+2019-05-22 17:45:13 http-nio-9999-exec-2 INFO  TransactionHelper:18 - In handling transaction method. Transaction operation is : EXPENSE
+2019-05-22 17:45:13 http-nio-9999-exec-2 INFO  TransactionHelper:53 - In expenseLogic() method.
+2019-05-22 17:46:07 http-nio-9999-exec-1 INFO  UserController:97 - Transaction data = date created : null, userId : 0, operation : EXCHANGE, amount : 50.0 and debtorId : 0
+2019-05-22 17:46:07 http-nio-9999-exec-1 INFO  TransactionHelper:106 - In fillUser() method.
+2019-05-22 17:46:07 http-nio-9999-exec-1 INFO  TransactionHelper:106 - In fillUser() method.
+2019-05-22 17:46:07 http-nio-9999-exec-1 INFO  TransactionHelper:18 - In handling transaction method. Transaction operation is : EXCHANGE
+2019-05-22 17:46:07 http-nio-9999-exec-1 INFO  TransactionHelper:75 - In exchangeLogic() method.
+2019-05-22 17:46:23 http-nio-9999-exec-3 INFO  UserController:97 - Transaction data = date created : null, userId : 0, operation : EXPENSE, amount : 50.0 and debtorId : 0
+2019-05-22 17:46:23 http-nio-9999-exec-3 INFO  TransactionHelper:106 - In fillUser() method.
+2019-05-22 17:46:23 http-nio-9999-exec-3 INFO  TransactionHelper:18 - In handling transaction method. Transaction operation is : EXPENSE
+2019-05-22 17:46:23 http-nio-9999-exec-3 INFO  TransactionHelper:53 - In expenseLogic() method.
+2019-05-22 17:46:28 http-nio-9999-exec-5 INFO  UserController:97 - Transaction data = date created : null, userId : 0, operation : INCOME, amount : 50.0 and debtorId : 0
+2019-05-22 17:46:28 http-nio-9999-exec-5 INFO  TransactionHelper:106 - In fillUser() method.
+2019-05-22 17:46:28 http-nio-9999-exec-5 INFO  TransactionHelper:18 - In handling transaction method. Transaction operation is : INCOME
+2019-05-22 17:46:28 http-nio-9999-exec-5 INFO  TransactionHelper:39 - In incomeLogic() method.
+2019-05-22 17:47:35 http-nio-9999-exec-1 INFO  UserController:97 - Transaction data = date created : null, userId : 0, operation : INCOME, amount : 50.0 and debtorId : 0
+2019-05-22 17:47:51 http-nio-9999-exec-1 INFO  TransactionHelper:106 - In fillUser() method.
+2019-05-22 17:48:03 http-nio-9999-exec-1 INFO  TransactionHelper:18 - In handling transaction method. Transaction operation is : INCOME
+2019-05-22 17:48:03 http-nio-9999-exec-1 INFO  TransactionHelper:39 - In incomeLogic() method.
+2019-05-22 17:52:35 http-nio-9999-exec-1 INFO  UserController:64 - Creating user with name : Mate, surname : Matic and account status : 100.0
+2019-05-22 17:52:44 http-nio-9999-exec-3 INFO  UserController:64 - Creating user with name : Miro, surname : Miric and account status : 100.0
+2019-05-22 17:52:50 http-nio-9999-exec-4 INFO  UserController:64 - Creating user with name : Ana, surname : Anic and account status : 100.0
+2019-05-22 17:52:54 http-nio-9999-exec-5 INFO  UserController:50 - In method getAllUsers..
+2019-05-22 17:53:17 http-nio-9999-exec-6 INFO  UserController:97 - Transaction data = date created : null, userId : 0, operation : EXCHANGE, amount : 50.0 and debtorId : 0
+2019-05-22 17:53:17 http-nio-9999-exec-6 INFO  TransactionHelper:106 - In fillUser() method.
+2019-05-22 17:53:17 http-nio-9999-exec-6 INFO  TransactionHelper:106 - In fillUser() method.
+2019-05-22 17:53:17 http-nio-9999-exec-6 INFO  TransactionHelper:18 - In handling transaction method. Transaction operation is : EXCHANGE
+2019-05-22 17:53:17 http-nio-9999-exec-6 INFO  TransactionHelper:75 - In exchangeLogic() method.
+2019-05-22 17:54:23 http-nio-9999-exec-2 INFO  UserController:97 - Transaction data = date created : null, userId : 0, operation : EXCHANGE, amount : 50.0 and debtorId : 0
+2019-05-22 17:54:23 http-nio-9999-exec-2 INFO  TransactionHelper:106 - In fillUser() method.
+2019-05-22 17:54:23 http-nio-9999-exec-2 INFO  TransactionHelper:106 - In fillUser() method.
+2019-05-22 17:54:23 http-nio-9999-exec-2 INFO  TransactionHelper:18 - In handling transaction method. Transaction operation is : EXCHANGE
+2019-05-22 17:54:23 http-nio-9999-exec-2 INFO  TransactionHelper:75 - In exchangeLogic() method.
+2019-05-22 17:55:13 http-nio-9999-exec-2 INFO  UserController:97 - Transaction data = date created : null, userId : 0, operation : EXCHANGE, amount : 50.0 and debtorId : 0
+2019-05-22 17:55:13 http-nio-9999-exec-2 INFO  TransactionHelper:106 - In fillUser() method.
+2019-05-22 17:55:13 http-nio-9999-exec-2 INFO  TransactionHelper:106 - In fillUser() method.
+2019-05-22 17:55:13 http-nio-9999-exec-2 INFO  TransactionHelper:18 - In handling transaction method. Transaction operation is : EXCHANGE
+2019-05-22 17:55:13 http-nio-9999-exec-2 INFO  TransactionHelper:75 - In exchangeLogic() method.
+2019-05-22 17:56:34 http-nio-9999-exec-5 INFO  UserController:97 - Transaction data = date created : null, userId : 0, operation : INCOME, amount : 150.0 and debtorId : 0
+2019-05-22 17:56:34 http-nio-9999-exec-5 INFO  TransactionHelper:106 - In fillUser() method.
+2019-05-22 17:56:34 http-nio-9999-exec-5 INFO  TransactionHelper:18 - In handling transaction method. Transaction operation is : INCOME
+2019-05-22 17:56:34 http-nio-9999-exec-5 INFO  TransactionHelper:39 - In incomeLogic() method.
+2019-05-22 17:58:37 http-nio-9999-exec-1 INFO  UserController:64 - Creating user with name : Ana, surname : Anic and account status : 100.0
+2019-05-22 17:58:46 http-nio-9999-exec-3 INFO  UserController:64 - Creating user with name : Miro, surname : Miric and account status : 100.0
+2019-05-22 17:58:58 http-nio-9999-exec-4 INFO  UserController:50 - In method getAllUsers..
+2019-05-22 17:59:07 http-nio-9999-exec-5 INFO  UserController:64 - Creating user with name : Ivo, surname : Ivic and account status : 100.0
+2019-05-22 17:59:10 http-nio-9999-exec-6 INFO  UserController:50 - In method getAllUsers..
+2019-05-22 17:59:37 http-nio-9999-exec-7 INFO  UserController:97 - Transaction data = date created : null, userId : 0, operation : EXCHANGE, amount : 50.0 and debtorId : 0
+2019-05-22 17:59:37 http-nio-9999-exec-7 INFO  TransactionHelper:106 - In fillUser() method.
+2019-05-22 17:59:37 http-nio-9999-exec-7 INFO  TransactionHelper:106 - In fillUser() method.
+2019-05-22 17:59:37 http-nio-9999-exec-7 INFO  TransactionHelper:18 - In handling transaction method. Transaction operation is : EXCHANGE
+2019-05-22 17:59:37 http-nio-9999-exec-7 INFO  TransactionHelper:75 - In exchangeLogic() method.
+2019-05-22 17:59:55 http-nio-9999-exec-8 INFO  UserController:97 - Transaction data = date created : null, userId : 0, operation : INCOME, amount : 150.0 and debtorId : 0
+2019-05-22 17:59:55 http-nio-9999-exec-8 INFO  TransactionHelper:106 - In fillUser() method.
+2019-05-22 17:59:55 http-nio-9999-exec-8 INFO  TransactionHelper:18 - In handling transaction method. Transaction operation is : INCOME
+2019-05-22 17:59:55 http-nio-9999-exec-8 INFO  TransactionHelper:39 - In incomeLogic() method.
+2019-05-22 18:03:20 http-nio-9999-exec-10 INFO  UserController:97 - Transaction data = date created : null, userId : 0, operation : EXPENSE, amount : 150.0 and debtorId : 0
+2019-05-22 18:03:20 http-nio-9999-exec-10 INFO  TransactionHelper:106 - In fillUser() method.
+2019-05-22 18:03:20 http-nio-9999-exec-10 INFO  TransactionHelper:18 - In handling transaction method. Transaction operation is : EXPENSE
+2019-05-22 18:03:20 http-nio-9999-exec-10 INFO  TransactionHelper:53 - In expenseLogic() method.
+2019-05-22 18:05:28 http-nio-9999-exec-1 INFO  UserController:97 - Transaction data = date created : null, userId : 0, operation : EXPENSE, amount : 150.0 and debtorId : 0
+2019-05-22 18:05:28 http-nio-9999-exec-1 INFO  TransactionHelper:106 - In fillUser() method.
+2019-05-22 18:05:28 http-nio-9999-exec-1 INFO  TransactionHelper:18 - In handling transaction method. Transaction operation is : EXPENSE
+2019-05-22 18:05:28 http-nio-9999-exec-1 INFO  TransactionHelper:53 - In expenseLogic() method.
+2019-05-22 18:06:17 http-nio-9999-exec-1 INFO  UserController:97 - Transaction data = date created : null, userId : 0, operation : EXPENSE, amount : 150.0 and debtorId : 0
+2019-05-22 18:06:17 http-nio-9999-exec-1 INFO  TransactionHelper:106 - In fillUser() method.
+2019-05-22 18:06:17 http-nio-9999-exec-1 INFO  TransactionHelper:18 - In handling transaction method. Transaction operation is : EXPENSE
+2019-05-22 18:06:17 http-nio-9999-exec-1 INFO  TransactionHelper:53 - In expenseLogic() method.
+2019-05-22 18:07:40 http-nio-9999-exec-1 INFO  UserController:97 - Transaction data = date created : null, userId : 0, operation : EXPENSE, amount : 150.0 and debtorId : 0
+2019-05-22 18:07:57 http-nio-9999-exec-1 INFO  TransactionHelper:106 - In fillUser() method.
+2019-05-22 18:08:53 http-nio-9999-exec-1 INFO  TransactionHelper:18 - In handling transaction method. Transaction operation is : EXPENSE
+2019-05-22 18:08:53 http-nio-9999-exec-1 INFO  TransactionHelper:53 - In expenseLogic() method.
+2019-05-22 18:09:36 http-nio-9999-exec-1 INFO  UserController:97 - Transaction data = date created : null, userId : 0, operation : EXPENSE, amount : 150.0 and debtorId : 0
+2019-05-22 18:10:01 http-nio-9999-exec-1 INFO  UserController:97 - Transaction data = date created : null, userId : 0, operation : EXPENSE, amount : 150.0 and debtorId : 0
+2019-05-22 18:10:01 http-nio-9999-exec-1 INFO  TransactionHelper:106 - In fillUser() method.
+2019-05-22 18:10:29 http-nio-9999-exec-1 INFO  TransactionHelper:18 - In handling transaction method. Transaction operation is : EXPENSE
+2019-05-22 18:10:40 http-nio-9999-exec-1 INFO  TransactionHelper:53 - In expenseLogic() method.
+2019-05-22 18:12:27 http-nio-9999-exec-1 INFO  UserController:97 - Transaction data = date created : null, userId : 0, operation : EXPENSE, amount : 150.0 and debtorId : 0
+2019-05-22 18:12:27 http-nio-9999-exec-1 INFO  TransactionHelper:106 - In fillUser() method.
+2019-05-22 18:12:27 http-nio-9999-exec-1 INFO  TransactionHelper:18 - In handling transaction method. Transaction operation is : EXPENSE
+2019-05-22 18:12:27 http-nio-9999-exec-1 INFO  TransactionHelper:53 - In expenseLogic() method.
+2019-05-22 18:13:43 http-nio-9999-exec-2 INFO  UserController:97 - Transaction data = date created : null, userId : 0, operation : EXPENSE, amount : 150.0 and debtorId : 0
+2019-05-22 18:13:43 http-nio-9999-exec-2 INFO  TransactionHelper:106 - In fillUser() method.
+2019-05-22 18:13:43 http-nio-9999-exec-2 INFO  TransactionHelper:18 - In handling transaction method. Transaction operation is : EXPENSE
+2019-05-22 18:13:43 http-nio-9999-exec-2 INFO  TransactionHelper:53 - In expenseLogic() method.
+2019-05-22 18:17:44 http-nio-9999-exec-3 INFO  UserController:97 - Transaction data = date created : null, userId : 0, operation : EXPENSE, amount : 150.0 and debtorId : 0
+2019-05-22 18:17:44 http-nio-9999-exec-3 INFO  TransactionHelper:106 - In fillUser() method.
+2019-05-22 18:17:44 http-nio-9999-exec-3 INFO  TransactionHelper:18 - In handling transaction method. Transaction operation is : EXPENSE
+2019-05-22 18:17:44 http-nio-9999-exec-3 INFO  TransactionHelper:53 - In expenseLogic() method.
+2019-05-22 18:18:24 http-nio-9999-exec-1 INFO  UserController:97 - Transaction data = date created : null, userId : 0, operation : EXPENSE, amount : 150.0 and debtorId : 0
+2019-05-22 18:18:24 http-nio-9999-exec-1 INFO  TransactionHelper:106 - In fillUser() method.
+2019-05-22 18:18:46 http-nio-9999-exec-1 INFO  TransactionHelper:18 - In handling transaction method. Transaction operation is : EXPENSE
+2019-05-22 18:18:46 http-nio-9999-exec-1 INFO  TransactionHelper:53 - In expenseLogic() method.
+2019-05-22 18:20:50 http-nio-9999-exec-2 INFO  UserController:97 - Transaction data = date created : null, userId : 0, operation : EXPENSE, amount : 150.0 and debtorId : 0
+2019-05-22 18:20:50 http-nio-9999-exec-2 INFO  TransactionHelper:106 - In fillUser() method.
+2019-05-22 18:20:50 http-nio-9999-exec-2 INFO  TransactionHelper:18 - In handling transaction method. Transaction operation is : EXPENSE
+2019-05-22 18:20:50 http-nio-9999-exec-2 INFO  TransactionHelper:53 - In expenseLogic() method.
+2019-05-22 18:21:10 http-nio-9999-exec-4 INFO  UserController:97 - Transaction data = date created : null, userId : 0, operation : EXCHANGE, amount : 50.0 and debtorId : 0
+2019-05-22 18:21:10 http-nio-9999-exec-4 INFO  TransactionHelper:106 - In fillUser() method.
+2019-05-22 18:21:17 http-nio-9999-exec-5 INFO  UserController:97 - Transaction data = date created : null, userId : 0, operation : EXCHANGE, amount : 50.0 and debtorId : 0
+2019-05-22 18:21:17 http-nio-9999-exec-5 INFO  TransactionHelper:106 - In fillUser() method.
+2019-05-22 18:21:17 http-nio-9999-exec-5 INFO  TransactionHelper:106 - In fillUser() method.
+2019-05-22 18:21:17 http-nio-9999-exec-5 INFO  TransactionHelper:18 - In handling transaction method. Transaction operation is : EXCHANGE
+2019-05-22 18:21:17 http-nio-9999-exec-5 INFO  TransactionHelper:75 - In exchangeLogic() method.
+2019-05-22 18:24:09 http-nio-9999-exec-1 INFO  UserController:97 - Transaction data = date created : null, userId : 0, operation : EXCHANGE, amount : 50.0 and debtorId : 0
+2019-05-22 18:24:09 http-nio-9999-exec-1 INFO  TransactionHelper:106 - In fillUser() method.
+2019-05-22 18:24:09 http-nio-9999-exec-1 INFO  TransactionHelper:106 - In fillUser() method.
+2019-05-22 18:24:09 http-nio-9999-exec-1 INFO  TransactionHelper:18 - In handling transaction method. Transaction operation is : EXCHANGE
+2019-05-22 18:24:09 http-nio-9999-exec-1 INFO  TransactionHelper:75 - In exchangeLogic() method.
+2019-05-22 18:24:41 http-nio-9999-exec-3 INFO  UserController:97 - Transaction data = date created : null, userId : 0, operation : EXPENSE, amount : 150.0 and debtorId : 0
+2019-05-22 18:24:41 http-nio-9999-exec-3 INFO  TransactionHelper:106 - In fillUser() method.
+2019-05-22 18:24:41 http-nio-9999-exec-3 INFO  TransactionHelper:18 - In handling transaction method. Transaction operation is : EXPENSE
+2019-05-22 18:24:41 http-nio-9999-exec-3 INFO  TransactionHelper:53 - In expenseLogic() method.
+2019-05-22 18:25:06 http-nio-9999-exec-2 INFO  UserController:64 - Creating user with name : Ivo, surname : Ivic and account status : 100.0
+2019-05-22 18:25:15 http-nio-9999-exec-3 INFO  UserController:64 - Creating user with name : Miro, surname : Miric and account status : 100.0
+2019-05-22 18:25:21 http-nio-9999-exec-4 INFO  UserController:64 - Creating user with name : Ana, surname : Anic and account status : 100.0
+2019-05-22 18:25:26 http-nio-9999-exec-6 INFO  UserController:50 - In method getAllUsers..
+2019-05-22 18:25:51 http-nio-9999-exec-5 INFO  UserController:97 - Transaction data = date created : null, userId : 0, operation : EXCHANGE, amount : 50.0 and debtorId : 0
+2019-05-22 18:25:51 http-nio-9999-exec-5 INFO  TransactionHelper:106 - In fillUser() method.
+2019-05-22 18:25:51 http-nio-9999-exec-5 INFO  TransactionHelper:106 - In fillUser() method.
+2019-05-22 18:25:51 http-nio-9999-exec-5 INFO  TransactionHelper:18 - In handling transaction method. Transaction operation is : EXCHANGE
+2019-05-22 18:25:51 http-nio-9999-exec-5 INFO  TransactionHelper:75 - In exchangeLogic() method.
+2019-05-22 18:26:38 http-nio-9999-exec-7 INFO  UserController:97 - Transaction data = date created : null, userId : 0, operation : INCOME, amount : 150.0 and debtorId : 0
+2019-05-22 18:26:38 http-nio-9999-exec-7 INFO  TransactionHelper:106 - In fillUser() method.
+2019-05-22 18:26:38 http-nio-9999-exec-7 INFO  TransactionHelper:18 - In handling transaction method. Transaction operation is : INCOME
+2019-05-22 18:26:38 http-nio-9999-exec-7 INFO  TransactionHelper:39 - In incomeLogic() method.
+2019-05-22 18:29:16 http-nio-9999-exec-9 INFO  UserController:97 - Transaction data = date created : null, userId : 0, operation : EXCHANGE, amount : 50.0 and debtorId : 0
+2019-05-22 18:29:16 http-nio-9999-exec-9 INFO  TransactionHelper:106 - In fillUser() method.
+2019-05-22 18:29:23 http-nio-9999-exec-10 INFO  UserController:97 - Transaction data = date created : null, userId : 0, operation : EXCHANGE, amount : 50.0 and debtorId : 0
+2019-05-22 18:29:23 http-nio-9999-exec-10 INFO  TransactionHelper:106 - In fillUser() method.
+2019-05-22 18:29:23 http-nio-9999-exec-10 INFO  TransactionHelper:106 - In fillUser() method.
+2019-05-22 18:29:23 http-nio-9999-exec-10 INFO  TransactionHelper:18 - In handling transaction method. Transaction operation is : EXCHANGE
+2019-05-22 18:29:23 http-nio-9999-exec-10 INFO  TransactionHelper:75 - In exchangeLogic() method.
+2019-05-22 19:20:35 http-nio-9999-exec-1 INFO  UserController:50 - In method getAllUsers..
+2019-05-22 19:20:41 http-nio-9999-exec-3 INFO  UserController:97 - Transaction data = date created : null, userId : 0, operation : EXCHANGE, amount : 50.0 and debtorId : 0
+2019-05-22 19:20:42 http-nio-9999-exec-3 INFO  TransactionHelper:106 - In fillUser() method.
+2019-05-22 19:20:42 http-nio-9999-exec-3 INFO  TransactionHelper:106 - In fillUser() method.
+2019-05-22 19:20:42 http-nio-9999-exec-3 INFO  TransactionHelper:18 - In handling transaction method. Transaction operation is : EXCHANGE
+2019-05-22 19:20:42 http-nio-9999-exec-3 INFO  TransactionHelper:75 - In exchangeLogic() method.
+2019-05-22 19:20:53 http-nio-9999-exec-4 INFO  UserController:97 - Transaction data = date created : null, userId : 0, operation : INCOME, amount : 50.0 and debtorId : 0
+2019-05-22 19:20:53 http-nio-9999-exec-4 INFO  TransactionHelper:106 - In fillUser() method.
+2019-05-22 19:20:53 http-nio-9999-exec-4 INFO  TransactionHelper:106 - In fillUser() method.
+2019-05-22 19:20:53 http-nio-9999-exec-4 INFO  TransactionHelper:18 - In handling transaction method. Transaction operation is : INCOME
+2019-05-22 19:20:53 http-nio-9999-exec-4 INFO  TransactionHelper:39 - In incomeLogic() method.
+2019-05-22 19:21:03 http-nio-9999-exec-5 INFO  UserController:97 - Transaction data = date created : null, userId : 0, operation : INCOME, amount : 50.0 and debtorId : 0
+2019-05-22 19:21:03 http-nio-9999-exec-5 INFO  TransactionHelper:106 - In fillUser() method.
+2019-05-22 19:21:03 http-nio-9999-exec-5 INFO  TransactionHelper:18 - In handling transaction method. Transaction operation is : INCOME
+2019-05-22 19:21:03 http-nio-9999-exec-5 INFO  TransactionHelper:39 - In incomeLogic() method.
+2019-05-22 19:22:06 http-nio-9999-exec-2 INFO  UserController:97 - Transaction data = date created : null, userId : 0, operation : INCOME, amount : 50.0 and debtorId : 0
+2019-05-22 19:22:06 http-nio-9999-exec-2 INFO  TransactionHelper:106 - In fillUser() method.
+2019-05-22 19:22:06 http-nio-9999-exec-2 INFO  TransactionHelper:18 - In handling transaction method. Transaction operation is : INCOME
+2019-05-22 19:22:06 http-nio-9999-exec-2 INFO  TransactionHelper:39 - In incomeLogic() method.
+2019-05-22 19:24:25 main INFO  TransactionHelper:18 - In handling transaction method. Transaction operation is : INCOME
+2019-05-22 19:24:25 main INFO  TransactionHelper:39 - In incomeLogic() method.
+2019-05-22 19:24:25 main INFO  TransactionHelper:18 - In handling transaction method. Transaction operation is : EXCHANGE
+2019-05-22 19:24:25 main INFO  TransactionHelper:75 - In exchangeLogic() method.
+2019-05-22 19:24:25 main INFO  TransactionHelper:18 - In handling transaction method. Transaction operation is : EXPENSE
+2019-05-22 19:24:25 main INFO  TransactionHelper:53 - In expenseLogic() method.
+2019-05-22 19:32:11 main INFO  TransactionHelper:18 - In handling transaction method. Transaction operation is : INCOME
+2019-05-22 19:32:11 main INFO  TransactionHelper:39 - In incomeLogic() method.
+2019-05-22 19:32:11 main INFO  TransactionHelper:18 - In handling transaction method. Transaction operation is : EXCHANGE
+2019-05-22 19:32:11 main INFO  TransactionHelper:75 - In exchangeLogic() method.
+2019-05-22 19:32:11 main INFO  TransactionHelper:18 - In handling transaction method. Transaction operation is : EXPENSE
+2019-05-22 19:32:11 main INFO  TransactionHelper:53 - In expenseLogic() method.
+2019-05-22 19:32:33 http-nio-9999-exec-2 INFO  UserController:64 - Creating user with name : Ana, surname : Anic and account status : 100.0
+2019-05-22 19:32:41 http-nio-9999-exec-3 INFO  UserController:64 - Creating user with name : Miro, surname : Miric and account status : 100.0
+2019-05-22 19:32:47 http-nio-9999-exec-4 INFO  UserController:64 - Creating user with name : Ivo, surname : Ivic and account status : 100.0
+2019-05-22 19:32:53 http-nio-9999-exec-5 INFO  UserController:50 - In method getAllUsers..
+2019-05-22 19:33:31 http-nio-9999-exec-6 INFO  UserController:97 - Transaction data = date created : null, userId : 0, operation : EXCHANGE, amount : 50.0 and debtorId : 0
+2019-05-22 19:33:31 http-nio-9999-exec-6 INFO  TransactionHelper:106 - In fillUser() method.
+2019-05-22 19:33:31 http-nio-9999-exec-6 INFO  TransactionHelper:106 - In fillUser() method.
+2019-05-22 19:33:31 http-nio-9999-exec-6 INFO  TransactionHelper:18 - In handling transaction method. Transaction operation is : EXCHANGE
+2019-05-22 19:33:31 http-nio-9999-exec-6 INFO  TransactionHelper:75 - In exchangeLogic() method.
+2019-05-22 19:33:48 http-nio-9999-exec-7 INFO  UserController:97 - Transaction data = date created : null, userId : 0, operation : INCOME, amount : 150.0 and debtorId : 0
+2019-05-22 19:33:48 http-nio-9999-exec-7 INFO  TransactionHelper:106 - In fillUser() method.
+2019-05-22 19:33:48 http-nio-9999-exec-7 INFO  TransactionHelper:18 - In handling transaction method. Transaction operation is : INCOME
+2019-05-22 19:33:48 http-nio-9999-exec-7 INFO  TransactionHelper:39 - In incomeLogic() method.
+2019-05-22 19:39:03 http-nio-9999-exec-9 INFO  UserController:97 - Transaction data = date created : null, userId : 0, operation : INCOME, amount : 150.0 and debtorId : 0
+2019-05-22 19:39:03 http-nio-9999-exec-9 INFO  TransactionHelper:106 - In fillUser() method.
+2019-05-22 19:39:03 http-nio-9999-exec-9 INFO  TransactionHelper:18 - In handling transaction method. Transaction operation is : INCOME
+2019-05-22 19:39:03 http-nio-9999-exec-9 INFO  TransactionHelper:39 - In incomeLogic() method.
+2019-05-22 19:43:52 http-nio-9999-exec-2 INFO  UserController:50 - In method getAllUsers..
+2019-05-22 19:44:00 http-nio-9999-exec-3 INFO  UserController:97 - Transaction data = date created : null, userId : 0, operation : INCOME, amount : 150.0 and debtorId : 0
+2019-05-22 19:44:00 http-nio-9999-exec-3 INFO  TransactionHelper:106 - In fillUser() method.
+2019-05-22 19:44:00 http-nio-9999-exec-3 INFO  TransactionHelper:18 - In handling transaction method. Transaction operation is : INCOME
+2019-05-22 19:44:00 http-nio-9999-exec-3 INFO  TransactionHelper:39 - In incomeLogic() method.
+2019-05-22 19:44:59 http-nio-9999-exec-1 INFO  UserController:97 - Transaction data = date created : null, userId : 0, operation : INCOME, amount : 150.0 and debtorId : 0
+2019-05-22 19:46:00 http-nio-9999-exec-1 INFO  TransactionHelper:106 - In fillUser() method.
+2019-05-22 19:46:38 http-nio-9999-exec-1 INFO  TransactionHelper:18 - In handling transaction method. Transaction operation is : INCOME
+2019-05-22 19:46:52 http-nio-9999-exec-1 INFO  TransactionHelper:39 - In incomeLogic() method.
+2019-05-22 19:48:26 http-nio-9999-exec-3 INFO  UserController:97 - Transaction data = date created : null, userId : 0, operation : EXCHANGE, amount : 50.0 and debtorId : 0
+2019-05-22 19:48:37 http-nio-9999-exec-3 INFO  TransactionHelper:106 - In fillUser() method.
+2019-05-22 19:48:39 http-nio-9999-exec-3 INFO  TransactionHelper:106 - In fillUser() method.
+2019-05-22 19:48:46 http-nio-9999-exec-3 INFO  TransactionHelper:18 - In handling transaction method. Transaction operation is : EXCHANGE
+2019-05-22 19:48:46 http-nio-9999-exec-3 INFO  TransactionHelper:75 - In exchangeLogic() method.
+2019-05-22 19:50:20 http-nio-9999-exec-1 INFO  UserController:97 - Transaction data = date created : null, userId : 0, operation : EXCHANGE, amount : 50.0 and debtorId : 0
+2019-05-22 19:50:20 http-nio-9999-exec-1 INFO  TransactionHelper:106 - In fillUser() method.
+2019-05-22 19:50:20 http-nio-9999-exec-1 INFO  TransactionHelper:106 - In fillUser() method.
+2019-05-22 19:50:20 http-nio-9999-exec-1 INFO  TransactionHelper:18 - In handling transaction method. Transaction operation is : EXCHANGE
+2019-05-22 19:50:20 http-nio-9999-exec-1 INFO  TransactionHelper:75 - In exchangeLogic() method.
+2019-05-22 19:50:26 http-nio-9999-exec-3 INFO  UserController:50 - In method getAllUsers..
+2019-05-22 19:50:49 http-nio-9999-exec-4 INFO  UserController:97 - Transaction data = date created : null, userId : 0, operation : INCOME, amount : 150.0 and debtorId : 0
+2019-05-22 19:50:49 http-nio-9999-exec-4 INFO  TransactionHelper:106 - In fillUser() method.
+2019-05-22 19:50:49 http-nio-9999-exec-4 INFO  TransactionHelper:18 - In handling transaction method. Transaction operation is : INCOME
+2019-05-22 19:50:49 http-nio-9999-exec-4 INFO  TransactionHelper:39 - In incomeLogic() method.
+2019-05-22 19:51:34 http-nio-9999-exec-1 INFO  UserController:97 - Transaction data = date created : null, userId : 0, operation : INCOME, amount : 150.0 and debtorId : 0
+2019-05-22 19:51:34 http-nio-9999-exec-1 INFO  TransactionHelper:106 - In fillUser() method.
+2019-05-22 19:51:34 http-nio-9999-exec-1 INFO  TransactionHelper:18 - In handling transaction method. Transaction operation is : INCOME
+2019-05-22 19:51:34 http-nio-9999-exec-1 INFO  TransactionHelper:39 - In incomeLogic() method.
+2019-05-22 19:53:30 http-nio-9999-exec-1 INFO  UserController:97 - Transaction data = date created : null, userId : 0, operation : INCOME, amount : 150.0 and debtorId : 0
+2019-05-22 19:53:30 http-nio-9999-exec-1 INFO  TransactionHelper:106 - In fillUser() method.
+2019-05-22 19:53:30 http-nio-9999-exec-1 INFO  TransactionHelper:18 - In handling transaction method. Transaction operation is : INCOME
+2019-05-22 19:53:30 http-nio-9999-exec-1 INFO  TransactionHelper:39 - In incomeLogic() method.
+2019-05-22 19:54:30 http-nio-9999-exec-2 INFO  UserController:97 - Transaction data = date created : null, userId : 0, operation : INCOME, amount : 150.0 and debtorId : 0
+2019-05-22 19:54:30 http-nio-9999-exec-2 INFO  TransactionHelper:106 - In fillUser() method.
+2019-05-22 19:54:30 http-nio-9999-exec-2 INFO  TransactionHelper:18 - In handling transaction method. Transaction operation is : INCOME
+2019-05-22 19:54:30 http-nio-9999-exec-2 INFO  TransactionHelper:39 - In incomeLogic() method.
+2019-05-22 19:54:44 http-nio-9999-exec-1 INFO  UserController:97 - Transaction data = date created : null, userId : 0, operation : INCOME, amount : 150.0 and debtorId : 0
+2019-05-22 19:55:13 http-nio-9999-exec-1 INFO  TransactionHelper:106 - In fillUser() method.
+2019-05-22 19:55:34 http-nio-9999-exec-1 INFO  TransactionHelper:18 - In handling transaction method. Transaction operation is : INCOME
+2019-05-22 19:55:34 http-nio-9999-exec-1 INFO  TransactionHelper:39 - In incomeLogic() method.
+2019-05-22 19:56:56 http-nio-9999-exec-1 INFO  UserController:97 - Transaction data = date created : null, userId : 0, operation : INCOME, amount : 150.0 and debtorId : 0
+2019-05-22 19:56:56 http-nio-9999-exec-1 INFO  TransactionHelper:106 - In fillUser() method.
+2019-05-22 19:56:56 http-nio-9999-exec-1 INFO  TransactionHelper:18 - In handling transaction method. Transaction operation is : INCOME
+2019-05-22 19:56:56 http-nio-9999-exec-1 INFO  TransactionHelper:39 - In incomeLogic() method.
+2019-05-22 19:57:23 http-nio-9999-exec-2 INFO  UserController:97 - Transaction data = date created : null, userId : 0, operation : INCOME, amount : 150.0 and debtorId : 0
+2019-05-22 19:57:57 http-nio-9999-exec-2 INFO  TransactionHelper:106 - In fillUser() method.
+2019-05-22 19:58:15 http-nio-9999-exec-2 INFO  TransactionHelper:18 - In handling transaction method. Transaction operation is : INCOME
+2019-05-22 19:58:15 http-nio-9999-exec-2 INFO  TransactionHelper:39 - In incomeLogic() method.
+2019-05-22 20:00:08 http-nio-9999-exec-1 INFO  UserController:97 - Transaction data = date created : null, userId : 0, operation : INCOME, amount : 150.0 and debtorId : 0
+2019-05-22 20:00:08 http-nio-9999-exec-1 INFO  TransactionHelper:106 - In fillUser() method.
+2019-05-22 20:00:08 http-nio-9999-exec-1 INFO  TransactionHelper:18 - In handling transaction method. Transaction operation is : INCOME
+2019-05-22 20:00:08 http-nio-9999-exec-1 INFO  TransactionHelper:39 - In incomeLogic() method.
+2019-05-22 20:00:20 http-nio-9999-exec-4 INFO  UserController:97 - Transaction data = date created : null, userId : 0, operation : EXCHANGE, amount : 50.0 and debtorId : 0
+2019-05-22 20:00:20 http-nio-9999-exec-4 INFO  TransactionHelper:106 - In fillUser() method.
+2019-05-22 20:00:29 http-nio-9999-exec-5 INFO  UserController:97 - Transaction data = date created : null, userId : 0, operation : EXCHANGE, amount : 50.0 and debtorId : 0
+2019-05-22 20:00:29 http-nio-9999-exec-5 INFO  TransactionHelper:106 - In fillUser() method.
+2019-05-22 20:00:29 http-nio-9999-exec-5 INFO  TransactionHelper:106 - In fillUser() method.
+2019-05-22 20:00:29 http-nio-9999-exec-5 INFO  TransactionHelper:18 - In handling transaction method. Transaction operation is : EXCHANGE
+2019-05-22 20:00:29 http-nio-9999-exec-5 INFO  TransactionHelper:75 - In exchangeLogic() method.
+2019-05-22 20:01:05 http-nio-9999-exec-1 INFO  UserController:97 - Transaction data = date created : null, userId : 0, operation : EXCHANGE, amount : 50.0 and debtorId : 0
+2019-05-22 20:01:23 http-nio-9999-exec-1 INFO  TransactionHelper:106 - In fillUser() method.
+2019-05-22 20:01:30 http-nio-9999-exec-1 INFO  TransactionHelper:106 - In fillUser() method.
+2019-05-22 20:01:46 http-nio-9999-exec-1 INFO  TransactionHelper:18 - In handling transaction method. Transaction operation is : EXCHANGE
+2019-05-22 20:01:46 http-nio-9999-exec-1 INFO  TransactionHelper:75 - In exchangeLogic() method.
+2019-05-22 20:04:25 http-nio-9999-exec-2 INFO  UserController:97 - Transaction data = date created : null, userId : 0, operation : EXCHANGE, amount : 50.0 and debtorId : 0
+2019-05-22 20:04:25 http-nio-9999-exec-2 INFO  TransactionHelper:106 - In fillUser() method.
+2019-05-22 20:04:25 http-nio-9999-exec-2 INFO  TransactionHelper:106 - In fillUser() method.
+2019-05-22 20:04:25 http-nio-9999-exec-2 INFO  TransactionHelper:18 - In handling transaction method. Transaction operation is : EXCHANGE
+2019-05-22 20:04:25 http-nio-9999-exec-2 INFO  TransactionHelper:75 - In exchangeLogic() method.
+2019-05-22 20:04:39 http-nio-9999-exec-3 INFO  UserController:97 - Transaction data = date created : null, userId : 0, operation : INCOME, amount : 150.0 and debtorId : 0
+2019-05-22 20:04:39 http-nio-9999-exec-3 INFO  TransactionHelper:106 - In fillUser() method.
+2019-05-22 20:04:39 http-nio-9999-exec-3 INFO  TransactionHelper:18 - In handling transaction method. Transaction operation is : INCOME
+2019-05-22 20:04:39 http-nio-9999-exec-3 INFO  TransactionHelper:39 - In incomeLogic() method.
+2019-05-22 20:07:09 http-nio-9999-exec-2 INFO  UserController:97 - Transaction data = date created : null, userId : 0, operation : INCOME, amount : 150.0 and debtorId : 0
+2019-05-22 20:07:09 http-nio-9999-exec-2 INFO  TransactionHelper:106 - In fillUser() method.
+2019-05-22 20:07:09 http-nio-9999-exec-2 INFO  TransactionHelper:18 - In handling transaction method. Transaction operation is : INCOME
+2019-05-22 20:07:09 http-nio-9999-exec-2 INFO  TransactionHelper:39 - In incomeLogic() method.
+2019-05-22 20:08:56 http-nio-9999-exec-1 INFO  UserController:97 - Transaction data = date created : null, userId : 0, operation : INCOME, amount : 150.0 and debtorId : 0
+2019-05-22 20:08:56 http-nio-9999-exec-1 INFO  TransactionHelper:106 - In fillUser() method.
+2019-05-22 20:08:56 http-nio-9999-exec-1 INFO  TransactionHelper:18 - In handling transaction method. Transaction operation is : INCOME
+2019-05-22 20:08:56 http-nio-9999-exec-1 INFO  TransactionHelper:39 - In incomeLogic() method.
+2019-05-22 20:09:40 http-nio-9999-exec-2 INFO  UserController:97 - Transaction data = date created : null, userId : 0, operation : INCOME, amount : 150.0 and debtorId : 0
+2019-05-22 20:09:40 http-nio-9999-exec-2 INFO  TransactionHelper:106 - In fillUser() method.
+2019-05-22 20:09:40 http-nio-9999-exec-2 INFO  TransactionHelper:18 - In handling transaction method. Transaction operation is : INCOME
+2019-05-22 20:09:40 http-nio-9999-exec-2 INFO  TransactionHelper:39 - In incomeLogic() method.
+2019-05-22 20:09:58 http-nio-9999-exec-3 INFO  UserController:97 - Transaction data = date created : null, userId : 0, operation : EXPENSE, amount : 60.0 and debtorId : 0
+2019-05-22 20:09:58 http-nio-9999-exec-3 INFO  TransactionHelper:106 - In fillUser() method.
+2019-05-22 20:09:58 http-nio-9999-exec-3 INFO  TransactionHelper:18 - In handling transaction method. Transaction operation is : EXPENSE
+2019-05-22 20:09:58 http-nio-9999-exec-3 INFO  TransactionHelper:53 - In expenseLogic() method.
+2019-05-22 20:10:28 http-nio-9999-exec-4 INFO  UserController:97 - Transaction data = date created : null, userId : 0, operation : EXCHANGE, amount : 200.0 and debtorId : 0
+2019-05-22 20:10:28 http-nio-9999-exec-4 INFO  TransactionHelper:106 - In fillUser() method.
+2019-05-22 20:10:28 http-nio-9999-exec-4 INFO  TransactionHelper:106 - In fillUser() method.
+2019-05-22 20:10:28 http-nio-9999-exec-4 INFO  TransactionHelper:18 - In handling transaction method. Transaction operation is : EXCHANGE
+2019-05-22 20:10:28 http-nio-9999-exec-4 INFO  TransactionHelper:75 - In exchangeLogic() method.
+2019-05-22 20:10:38 main INFO  TransactionHelper:18 - In handling transaction method. Transaction operation is : INCOME
+2019-05-22 20:10:38 main INFO  TransactionHelper:39 - In incomeLogic() method.
+2019-05-22 20:10:38 main INFO  TransactionHelper:18 - In handling transaction method. Transaction operation is : EXCHANGE
+2019-05-22 20:10:38 main INFO  TransactionHelper:75 - In exchangeLogic() method.
+2019-05-22 20:10:38 main INFO  TransactionHelper:18 - In handling transaction method. Transaction operation is : EXPENSE
+2019-05-22 20:10:38 main INFO  TransactionHelper:53 - In expenseLogic() method.
