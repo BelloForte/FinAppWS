@@ -1,3 +1,9 @@
+use master
+go
+
+create database FinAppDB
+go
+
 use FinAppDB
 go
 
